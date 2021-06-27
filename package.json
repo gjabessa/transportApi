@@ -1,0 +1,23 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "A travels api which has basic functionality to serve as a basis for transportation related implementations",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenewcreation/transportApi.git"
+  },
+  "keywords": [
+    "Transport"
+  ],
+  "author": "Geleta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenewcreation/transportApi/issues"
+  },
+  "homepage": "https://github.com/thenewcreation/transportApi#readme"
+}
